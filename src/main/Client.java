@@ -9,5 +9,9 @@ public class Client {
         System.out.println("bug2");
 
         System.out.println("bug2 fixed");
+
+        System.out.println("pre released bug");
+
+        System.out.println("new bug1");
     }
 }

@@ -5,5 +5,9 @@ public class Client {
         System.out.println("hello");
 
         System.out.println("bug");
+
+        System.out.println("bug2");
+
+        System.out.println("bug2 fixed");
     }
 }
